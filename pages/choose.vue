@@ -6,17 +6,7 @@
   </div>
 </template>
 
-<script>
-export default{
-name: 'choosePage',
-data () {
-  return {
-    choose: 7,
-  }
-},
+<script setup>
 
 
-
-
-}
 </script>
